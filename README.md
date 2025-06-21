@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kendy</h1>
+<h1 align="center">Hi 👋, I'm Cuki</h1>
 <h3 align="center">A DS student at VinUni</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cuki2910&label=Profile%20views&color=0e75b6&style=flat" alt="cuki2910" /> </p>
