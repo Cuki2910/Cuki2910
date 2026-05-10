@@ -1,51 +1,30 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:5C3EE8&height=180&section=header&text=CuKi%20%7C%20Data%20Science&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:5C3EE8&height=200&section=header&text=Hi,%20I'm%20CuKi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Student%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descSize=18" />
 </p>
-<h1 align="center">Hi there 👋, I'm CuKi</h1>
-
-<h3 align="center">
-  Data Science Student @ VinUniversity · AI/ML Enthusiast
-</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cuki2910&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Data+Science+Student+%40+VinUniversity;AI+%26+Machine+Learning+Enthusiast;Computer+Vision+Learner;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </p>
 
 ---
+
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ## 🚀 About Me
 
-Hi! I'm **CuKi**, a Data Science student at **VinUniversity** with a strong interest in:
+Hi! I'm **CuKi**, a Data Science student at **VinUniversity**.
 
-- 🤖 Artificial Intelligence & Machine Learning  
-- 📊 Data Science & Analytics  
-- 🧠 Computer Vision  
-- 🛠️ Building practical tech products  
-
-I enjoy learning new technologies, solving real-world problems, and creating projects that combine data, AI, and software engineering.
+- 🤖 Interested in AI, Machine Learning and Data Science  
+- 📊 Love working with data and real-world problems  
+- 🧠 Currently exploring Computer Vision  
+- 🛠️ Enjoy building useful tech products  
 
 ---
 
-## 🌱 Currently Learning
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-0A66C2?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-</p>
-
----
-
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,mysql,nodejs,figma,tensorflow,pytorch,opencv,sklearn" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,mysql,nodejs,figma,tensorflow,pytorch,opencv,sklearn,github,vscode" />
 </p>
 
 ---
@@ -88,5 +67,9 @@ I enjoy learning new technologies, solving real-world problems, and creating pro
 ---
 
 <p align="center">
-  <i>“Keep learning, keep building.”</i>
+  <i>“Always learning, always building.”</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C3EE8,100:0A66C2&height=120&section=footer" />
 </p>
