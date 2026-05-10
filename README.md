@@ -62,7 +62,7 @@ Hi! I'm **CuKi**, a **Data Science student at VinUniversity**.
 <table align="center">
   <tr>
     <td width="50%">
-      <h3 align="center">🚀 Kube</h3>
+      <h3 align="center">🎲 Kube</h3> 
       <p align="center">
         <a href="https://github.com/cuki2910/Kube">
           <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
@@ -77,7 +77,7 @@ Hi! I'm **CuKi**, a **Data Science student at VinUniversity**.
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🍽️ VinRECIP-</h3>
+      <h3 align="center">🍽️ VinRECIPE</h3>
       <p align="center">
         <a href="https://github.com/cuki2910/VinRECIP-">
           <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
