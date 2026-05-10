@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:5C3EE8&height=180&section=header&text=CuKi%20%7C%20Data%20Science&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</p>
 <h1 align="center">Hi there 👋, I'm CuKi</h1>
 
 <h3 align="center">
